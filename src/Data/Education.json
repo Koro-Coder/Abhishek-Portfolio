@@ -1,0 +1,22 @@
+[   {
+        "id":1,
+        "coursename":"Class 10th",
+        "courseyear":"2018",
+        "institute":"Little Flowers Public Sr. Sec. School",
+        "grade":"92.6% Percentage"
+    },
+    {
+        "id":2,
+        "coursename":"Class 12th",
+        "courseyear":"2020",
+        "institute":"Little Flowers Public Sr. Sec. School",
+        "grade":"96% Percentage"
+    },
+    {
+        "id":3,
+        "coursename":"B.Tech in Mathematics And Computing Engineering",
+        "courseyear":"2020 - 2024",
+        "institute":"Delhi Technological University",
+        "grade":" Aggregate C.G.P.A (upto 4th Semester) 9.12"
+    }
+]

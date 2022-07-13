@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "year":"Jun, 2020 - Jun, 2021",
+        "companyname":"EA Academy",
+        "position":"Instructor",
+        "desc":"-  Worked as a Physics and Maths Instructor."
+    },
+    {
+        "id":2,
+        "year":"Jan, 2022 - Current",
+        "companyname":"",
+        "position":"Freelancer",
+        "desc":"- Did a couple of projects where I had to improve the UI of certain sites "
+    }
+
+]
