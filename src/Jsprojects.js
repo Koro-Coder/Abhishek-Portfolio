@@ -16,8 +16,8 @@ const Jsprojects = () => {
                 <div className="col-sm-6" key={i}>
                   <img
                     width="100%"
-                    height="300"
-                    src={project.projectlink}
+                    height="70%"
+                    src={project.img}
                     alt="project-Link"
                   ></img>
                   <br />

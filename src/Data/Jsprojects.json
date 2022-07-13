@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "projectlink": "kds.jpg",
+    "img": "https://i.postimg.cc/nzWrVTbR/Goated.jpg",
     "codelink": "https://github.com/Koro-Coder/GOATed"
   },
   {
     "id": 2,
-    "projectlink": "kds.jpg",
-    "codelink": ""
+    "img": "https://i.postimg.cc/xTvfB9CF/portfolio-Abhishek.jpg",
+    "codelink": "https://github.com/Koro-Coder/Abhishek-Portfolio"
   }
 ]
