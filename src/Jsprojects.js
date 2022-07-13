@@ -18,6 +18,7 @@ const Jsprojects = () => {
                     width="100%"
                     height="300"
                     src={project.projectlink}
+                    alt="project-Link"
                   ></img>
                   <br />
                   <a

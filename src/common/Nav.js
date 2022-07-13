@@ -4,7 +4,6 @@ import Home from "../assets/img/home.png";
 import About from "../assets/img/about.png";
 import Contact from "../assets/img/contact.png";
 import Education from "../assets/img/education.png";
-import Projects from "../assets/img/portfolio.png";
 import Services from "../assets/img/services.png";
 import Work from "../assets/img/work.png";
 import Jsprojects from "../assets/img/jsprojects.png";
