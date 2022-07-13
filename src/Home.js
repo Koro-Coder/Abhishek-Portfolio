@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 import profileimg from "./assets/img/abhishek.png";
-import Pdf from "./assets/pdf/poojagarva.pdf";
+import Pdf from "./assets/pdf/AbhishekAggarwal-Resume.pdf";
 import Linkedinicon from "./assets/img/socialicons/linkedin.png";
 import Instagramicon from "./assets/img/socialicons/instagram.png";
 import Githubicon from "./assets/img/socialicons/github.png";
