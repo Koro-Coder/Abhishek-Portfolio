@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import profileimg from "./assets/img/profileimg.png";
+import profileimg from "./assets/img/abhishek.png";
 import Pdf from "./assets/pdf/poojagarva.pdf";
 import Linkedinicon from "./assets/img/socialicons/linkedin.png";
 import Instagramicon from "./assets/img/socialicons/instagram.png";
