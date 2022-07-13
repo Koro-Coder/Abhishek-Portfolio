@@ -29,22 +29,22 @@ const Nav = () => {
                 <img src={Services} alt="services" />
               </li>
             </a>
-            <a href="#work" title="Work">
+            <a href="#work" title="WORK">
               <li data-aos="zoom-in">
                 <img src={Work} alt="work" />
               </li>
             </a>
-            <a href="#education">
+            <a href="#education" title="ACADEMICS">
               <li data-aos="zoom-in">
                 <img src={Education} alt="education" />
               </li>
             </a>
-            <a href="#jsprojects">
+            <a href="#jsprojects" title="PROJECTS">
               <li data-aos="zoom-in">
                 <img src={Jsprojects} alt="jsprojects" />
               </li>
             </a>
-            <a href="#contact">
+            <a href="#contact" title="CONTACT-ME">
               <li data-aos="zoom-in">
                 <img src={Contact} alt="contact" />
               </li>
